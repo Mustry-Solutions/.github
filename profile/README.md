@@ -1,6 +1,9 @@
 <div align="center">
 
-# Mustry Solutions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/mustry-logo-dark.svg">
+  <img src="assets/mustry-logo-light.svg" alt="Mustry Solutions" width="360">
+</picture>
 
 ### Scale your industrial operations on a solid digital backbone
 
