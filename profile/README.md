@@ -110,8 +110,6 @@ Facing structural inefficiencies on your shop floor, or planning your IT/OT inte
 
 <div align="center">
 
-<sub>**Trusted by**</sub>
-
-<sub>Wilms &nbsp;·&nbsp; BMT Aerospace &nbsp;·&nbsp; Picanol &nbsp;·&nbsp; Proferro &nbsp;·&nbsp; Lowbake &nbsp;·&nbsp; Longroad Energy &nbsp;·&nbsp; Thorem &nbsp;·&nbsp; SG Energies</sub>
+<img src="assets/clients.svg" alt="Trusted by Wilms, BMT Aerospace, Picanol, Proferro, Lowbake, Longroad Energy, Thorem and SG Energies" width="100%">
 
 </div>
