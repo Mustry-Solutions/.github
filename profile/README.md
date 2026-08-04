@@ -37,8 +37,7 @@ decisions faster and more accurately.
 ![Docker](https://img.shields.io/badge/Docker-295EF6?style=flat-square&logo=docker&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-10172A?style=flat-square&logo=openjdk&logoColor=96B0FB)
 ![Python](https://img.shields.io/badge/Python-295EF6?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-10172A?style=flat-square&logo=typescript&logoColor=96B0FB)
-![Go](https://img.shields.io/badge/Go-295EF6?style=flat-square&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-10172A?style=flat-square&logo=kubernetes&logoColor=96B0FB)
 
 </div>
 
