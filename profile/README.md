@@ -17,7 +17,7 @@ We start on the shop floor, in system architecture and process design, and only 
 
 <br>
 
-## 🏭 &nbsp;What we do
+## What we do
 
 <table>
   <tr>
@@ -62,7 +62,7 @@ We start on the shop floor, in system architecture and process design, and only 
       <h3>🎓</h3>
       <b>Training</b>
       <br><br>
-      <sub>Hands-on training so your team owns its digital backbone instead of renting ours</sub>
+      <sub>Hands-on training so your team owns its digital backbone instead of renting ours, like our <a href="https://mustrysolutions.com/courses/cicd">CI/CD for Ignition Masterclass</a></sub>
       <br><br>
     </td>
   </tr>
@@ -84,26 +84,48 @@ We start on the shop floor, in system architecture and process design, and only 
 
 <br>
 
-## 📦 &nbsp;Open source
+## Ignition modules
+
+We build and maintain our own modules for Ignition 8.3. See them all on [mustrysolutions.com/ignition-modules](https://mustrysolutions.com/ignition-modules).
+
+**Commercial**
+
+| Module | Description |
+|---|---|
+| [**TimescaleDB**](https://mustrysolutions.com/ignition-modules/timescaledb) | Tag historian on TimescaleDB: fast aggregation, painless tag renames and rich metadata |
+| [**Observability**](https://mustrysolutions.com/ignition-modules/observability) | OpenTelemetry and Prometheus export of gateway metrics and logs to Grafana, Datadog, New Relic or Azure Monitor |
+| [**Secrets**](https://mustrysolutions.com/ignition-modules/secrets) | Resolve gateway credentials from HashiCorp Vault, Azure Key Vault, AWS Secrets Manager or Google Secret Manager |
+| [**AMQP**](https://mustrysolutions.com/ignition-modules/amqp) | AMQP 0-9-1 and RabbitMQ connectivity: broker connections, Event Streams, `system.amqp` scripting |
+
+**Open source**
+
+| Repository | Description | |
+|---|---|---|
+| [**mustry-perspective-component-module**](https://github.com/Mustry-Solutions/mustry-perspective-component-module) | Free Perspective components: scheduler, resource timeline, editable data grid, branching diagram, rich-text and code editors, and more | [![Stars](https://img.shields.io/github/stars/Mustry-Solutions/mustry-perspective-component-module?style=flat-square&color=295EF6&label=%E2%AD%90)](https://github.com/Mustry-Solutions/mustry-perspective-component-module/stargazers) |
+| [**ignition-designer-dark-mode-module**](https://github.com/Mustry-Solutions/ignition-designer-dark-mode-module) | Dark theme for the Ignition Designer (8.3+ and 8.1.33+), built on FlatLaf | [![Stars](https://img.shields.io/github/stars/Mustry-Solutions/ignition-designer-dark-mode-module?style=flat-square&color=295EF6&label=%E2%AD%90)](https://github.com/Mustry-Solutions/ignition-designer-dark-mode-module/stargazers) |
+| [**ignition-doom-module**](https://github.com/Mustry-Solutions/ignition-doom-module) | Doom, Heretic, Hexen and Strife as a Perspective component, with tag-bound controls and a deathmatch relay | [![Stars](https://img.shields.io/github/stars/Mustry-Solutions/ignition-doom-module?style=flat-square&color=295EF6&label=%E2%AD%90)](https://github.com/Mustry-Solutions/ignition-doom-module/stargazers) |
+| [**factry-historian-ignition-module**](https://github.com/Mustry-Solutions/factry-historian-ignition-module) | Our fork of the Factry Historian module for Ignition |  |
+
+<br>
+
+## Open source tooling
 
 We believe a solid digital backbone shouldn't be a black box. Some of the tools we share:
 
 | Repository | Description | |
 |---|---|---|
-| [**ignition-mustry-ui**](https://github.com/Mustry-Solutions/ignition-mustry-ui) | Ignition Perspective component with a branching option, great for track & trace visualisations | [![Stars](https://img.shields.io/github/stars/Mustry-Solutions/ignition-mustry-ui?style=flat-square&color=295EF6&label=%E2%AD%90)](https://github.com/Mustry-Solutions/ignition-mustry-ui/stargazers) |
 | [**ignition-83-cicd**](https://github.com/Mustry-Solutions/ignition-83-cicd) | CI/CD tooling and scripts for Ignition 8.3 gateways | [![Stars](https://img.shields.io/github/stars/Mustry-Solutions/ignition-83-cicd?style=flat-square&color=295EF6&label=%E2%AD%90)](https://github.com/Mustry-Solutions/ignition-83-cicd/stargazers) |
-| [**mustry-ads-connector**](https://github.com/Mustry-Solutions/mustry-ads-connector) | Connector that reads and writes Beckhoff TwinCAT ADS | [![Stars](https://img.shields.io/github/stars/Mustry-Solutions/mustry-ads-connector?style=flat-square&color=295EF6&label=%E2%AD%90)](https://github.com/Mustry-Solutions/mustry-ads-connector/stargazers) |
+| [**mustry-ads-connector**](https://github.com/Mustry-Solutions/mustry-ads-connector) | Python connector that reads and writes Beckhoff TwinCAT ADS variables | [![Stars](https://img.shields.io/github/stars/Mustry-Solutions/mustry-ads-connector?style=flat-square&color=295EF6&label=%E2%AD%90)](https://github.com/Mustry-Solutions/mustry-ads-connector/stargazers) |
 | [**md-to-pdf**](https://github.com/Mustry-Solutions/md-to-pdf) | Markdown to PDF converter | [![Stars](https://img.shields.io/github/stars/Mustry-Solutions/md-to-pdf?style=flat-square&color=295EF6&label=%E2%AD%90)](https://github.com/Mustry-Solutions/md-to-pdf/stargazers) |
-| [**benthos-umh**](https://github.com/Mustry-Solutions/benthos-umh) | Our contributing fork of the United Manufacturing Hub's benthos-umh stream processor | |
-| [**factry-historian-ignition-module**](https://github.com/Mustry-Solutions/factry-historian-ignition-module) | Fork of the Factry Historian module for Ignition | |
+| [**benthos-umh**](https://github.com/Mustry-Solutions/benthos-umh) | Fork of the United Manufacturing Hub's benthos-umh stream processor |  |
 
 <br>
 
-## 🤝 &nbsp;Working with us
+## Working with us
 
 Facing structural inefficiencies on your shop floor, or planning your IT/OT integration?
 
-📬 Reach out via [mustrysolutions.com](https://mustrysolutions.com/contact-us) or
+Reach out via [mustrysolutions.com](https://mustrysolutions.com/contact-us) or
 [info@mustrysolutions.com](mailto:info@mustrysolutions.com). We'd love to talk architecture first, tools second.
 
 <br>
